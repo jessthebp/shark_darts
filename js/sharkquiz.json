@@ -1,0 +1,74 @@
+{
+"questions": [
+    {
+        "question": "What is the largest species of shark?",
+        "answers": [
+            "Great White Shark",
+            "Whale Shark",
+            "Tiger Shark",
+            "Hammerhead Shark"
+        ],
+        "correctAnswer": "Whale Shark",
+        "additionalInfo": "The Whale Shark is the largest species of shark and can grow up to 40 feet in length."
+    },
+    {
+        "question": "What shark lives the longest?",
+        "answers": [
+            "Greenland Shark",
+            "Great White Shark",
+            "Tiger Shark",
+            "Hammerhead Shark"
+        ],
+        "correctAnswer": "Greenland Shark",
+        "additionalInfo": "The Greenland Shark is known to live for over 400 years, making it the longest-living vertebrate."
+    },
+    {
+        "question": "How does the tiny Cookiecutter Shark get its name?",
+        "answers": [
+            "It has a cookie-shaped body",
+            "It leaves cookie-shaped wounds on its prey",
+            "It looks like a chocolate chip cookie",
+            "It's attracted to sweet smells"
+        ],
+        "correctAnswer": "It leaves cookie-shaped wounds on its prey",
+        "additionalInfo": "The Cookiecutter Shark gets its name from the cookie-shaped wounds it leaves on larger animals, which it feeds on."
+
+    },
+    {
+        "question": "Which shark is able to 'walk' on land and survive out of water for up to 2 hours?",
+        "answers": [
+            "Epaulette Shark",
+            "Great White Shark",
+            "Tiger Shark",
+            "Hammerhead Shark"
+        ],
+        "correctAnswer": "Epaulette Shark",
+        "additionalInfo": "The Epaulette Shark is known for its ability to 'walk' on land using its pectoral fins and can survive out of water for up to 2 hours.",
+        "image": "images/epaulette_shark.jpg"
+    },
+    {
+        "question": "The Bonnethead Shark is the only omnivorous shark. What does it eat that makes it omnivorous?",
+        "answers": [
+            "Seaweed",
+            "Seagrass",
+            "Plankton",
+            "Coral"
+        ],
+        "correctAnswer": "Seagrass",
+        "additionalInfo": "The Bonnethead Shark is the only omnivorous shark, feeding on both animal and plant matter, including seagrass.",
+        "image": "images/bonnethead_shark.jpg"
+    },
+    {
+        "question": "how does the Chain Catshark signal to other members of its species?",
+        "answers": [
+            "By glowing green",
+            "By making sounds",
+            "By releasing chemicals",
+            "By jumping out of the water"
+        ],
+        "correctAnswer": "By glowing green",
+        "additionalInfo": "The Chain Catshark has bioluminescent organs that allow it to glow green, which it uses to signal to other members of its species.",
+        "image": "images/chain_catshark.jpg"
+    }
+]
+}
